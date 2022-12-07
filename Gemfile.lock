@@ -296,6 +296,8 @@ GEM
     standard (1.9.1)
       rubocop (= 1.26.1)
       rubocop-performance (= 1.13.3)
+    stimulus-rails (1.2.1)
+      railties (>= 6.0.0)
     thor (1.2.1)
     tilt (2.0.11)
     turbolinks (5.2.1)
@@ -364,6 +366,7 @@ DEPENDENCIES
   solargraph
   spring
   standard
+  stimulus-rails
   turbolinks (~> 5)
   tzinfo-data
   web-console (>= 4.1.0)
